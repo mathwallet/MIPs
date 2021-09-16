@@ -1,0 +1,2 @@
+# MIPs
+MathChain Improvement Proposals
